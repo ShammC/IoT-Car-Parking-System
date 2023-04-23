@@ -1,3 +1,0 @@
-# IoT-Car-Parking-System
-
-
